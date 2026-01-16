@@ -1,77 +1,78 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Kartik%20Ugale%20%7C%20CS%20Undergrad&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- Neon Line Header -->
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=CS+Undergraduate+%F0%9F%92%BB;Aspiring+AI+%26+ML+Developer+%F0%9F%A4%96;Full+Stack+Developer+%E2%98%81%EF%B8%8F;LLM+%26+AI+Agent+Explorer+%F0%9F%A7%A0)](https://git.io/typing-svg)
+<h1>👋 Hey, I'm Kartik Ugale</h1>
+<h3>🎓 CS Undergrad | 🤖 AI & ML Enthusiast | 🌐 Full-Stack Developer</h3>
 
-<a href="https://www.linkedin.com/in/kartik-ugale2994/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+AI+Agents+from+Scratch;Exploring+LLMs+%26+RAG+Systems;Turning+Ideas+into+Scalable+Products" />
+
+<!-- Socials -->
+<p>
+<a href="https://linkedin.com/in/kartik-ugale2994/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1e40af?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:ugalekartik2004@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-991b1b?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=kmu2994&style=flat-square&color=6366F1"/>
+<img src="https://komarev.com/ghpvc/?username=kmu2994&style=for-the-badge&color=0ea5e9"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 Who Am I?
 
-- 🎓 CS Undergraduate passionate about **AI, ML, and Full-Stack Development**
-- 🔭 Currently working on **AI Agents for Airline Use-Cases**
-- 🌱 Learning **LLM Fine-Tuning, Advanced RAG Pipelines & LLM Training**
-- 🧠 Strong interest in **AI-driven systems and scalable backend architectures**
-- ⚡ Fun fact: I treat **LLMs as my coding co-pilot** for building next-gen software 🚀
+🧠 A curious **Computer Science undergraduate** who enjoys  
+breaking systems → rebuilding them → making them smarter.
 
----
+🔍 I focus on:
+- AI Agents
+- LLM-powered systems
+- Scalable backend & clean frontend design
 
-## 🎯 What I Do
-
-`🌐 Full-Stack Development` · `🤖 AI / ML` · `🧠 LLMs & RAG` · `☁️ Cloud & DevOps` · `🔧 Problem Solving`
+💡 I believe software should **think, adapt, and evolve**.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚧 Currently Exploring
+
+- 🛫 Designing **AI Agents for Airline Use-Cases**
+- 🧪 Experimenting with **LLM Fine-Tuning & RAG Pipelines**
+- 🧠 Learning **Prompt Engineering & Model Training**
+- ☁️ Deploying systems on **AWS & Docker**
+
+---
+
+## 🛠️ My Toolbox
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,typescript,html,css,spring,nodejs,mongodb,mysql,docker,aws,git,github,linux,postman&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,html,css,spring,nodejs,mongodb,mysql,docker,aws,git,github,linux&perline=8&theme=dark" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Code in Motion
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kmu2994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kmu2994&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kmu2994&show_icons=true&theme=react&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kmu2994&layout=compact&theme=react&hide_border=true" width="48%"/>
 </div>
 
 ---
 
-## 🔥 Streak & Vibes
+## ⚡ Consistency Check
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=kmu2994&theme=tokyonight&hide_border=true&background=0D1117" width="55%"/>
-
-<br/>
-
-*"Build systems that learn, scale, and make impact."*
-
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=kmu2994&theme=react&hide_border=true" width="60%"/>
 </div>
 
 ---
 
-## 🕹️ Contribution Animation
+## 🎮 Contribution Playground
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -84,8 +85,16 @@
 
 ---
 
+## 🧠 Philosophy
+
+> 🧩 *Code is not just instructions — it’s intelligence in motion.*
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=8"/>
+
+⭐ **Thanks for stopping by — let’s build something meaningful.** ⭐
 
 </div>
