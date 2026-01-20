@@ -40,7 +40,6 @@ breaking systems → rebuilding them → making them smarter.
 
 ## 🚧 Currently Exploring
 
-- 🛫 Designing **AI Agents for Airline Use-Cases**
 - 🧪 Experimenting with **LLM Fine-Tuning & RAG Pipelines**
 - 🧠 Learning **Prompt Engineering & Model Training**
 - ☁️ Deploying systems on **AWS & Docker**
