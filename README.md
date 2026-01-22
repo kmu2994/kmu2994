@@ -67,11 +67,9 @@ breaking systems → rebuilding them → making them smarter.
 ## ⚡ Consistency Check
 
 <div align="center">
-  <img 
-    src="https://ghchart.rshah.org/22d3ee/kmu2994"
-    alt="GitHub Contribution Activity"
-  />
-  <p><i>Consistency derived from GitHub contribution activity</i></p>
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=kmu2994&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2310d5ae%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%2301d8df%22%7D)
+
 </div>
 
 
