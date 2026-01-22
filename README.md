@@ -68,11 +68,11 @@ breaking systems → rebuilding them → making them smarter.
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=kmu2994&theme=react&hide_border=true"
-    width="60%"
-    alt="GitHub Streak Stats"
+    src="https://ghchart.rshah.org/22d3ee/kmu2994"
+    alt="GitHub Contribution Chart"
   />
 </div>
+>
 
 
 ---
