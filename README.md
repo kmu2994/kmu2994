@@ -67,12 +67,13 @@ breaking systems → rebuilding them → making them smarter.
 ## ⚡ Consistency Check
 
 <div align="center">
-  <img
+  <img 
     src="https://ghchart.rshah.org/22d3ee/kmu2994"
-    alt="GitHub Contribution Chart"
+    alt="GitHub Contribution Activity"
   />
+  <p><i>Consistency derived from GitHub contribution activity</i></p>
 </div>
->
+
 
 
 ---
