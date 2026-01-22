@@ -75,6 +75,19 @@ breaking systems → rebuilding them → making them smarter.
 
 
 ---
+## 📈 Contributions graph
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmu2994&theme=react"
+    width="80%"
+    alt="Contribution Consistency"
+  />
+  <p><i>Consistency measured using GitHub contribution activity</i></p>
+</div>
+
+---
+
 
 ## 🎮 Contribution Playground
 
