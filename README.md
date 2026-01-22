@@ -63,11 +63,12 @@ breaking systems → rebuilding them → making them smarter.
 
 ---
 
+
 ## ⚡ Consistency Check
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kmu2994&theme=react&hide_border=true"
+  <img
+    src="https://streak-stats.demolab.com?user=kmu2994&theme=react&hide_border=true"
     width="60%"
     alt="GitHub Streak Stats"
   />
